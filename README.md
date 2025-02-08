@@ -1,2 +1,3 @@
 # ElectroChemPX
-This is a lightweight ontology for electrochemistry
+
+Electrochemical synthesis with its mild conditions and high atom economy, offers an alternative for producing high-value products. However, the electrochemical reactions, commonly involving a larger parameter space than traditional chemical synthesis, are challenging to efficiently identify an optimal reaction condition and investigate the underlying principles. In this study, we employed an AI-guided approach to investigate the Co(II)-mediated selective electro-oxidation of p-xylene, focusing on both reaction optimization and mechanistic insights. The data from the study is organised by a lightweight ontology and is available in a .rdf format.
